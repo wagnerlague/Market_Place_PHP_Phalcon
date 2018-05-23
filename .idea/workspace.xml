@@ -2,59 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d9bb57b-d68b-4c2f-8429-c00c3b9aab01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htrouter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Market_Place_PHP_Phalcon.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/marketplace.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/ControllerBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/IndexController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/TesteController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UsuarioController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Produtos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Teste.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.volt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index/index.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/teste/index.volt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/teste/nome.volt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/c__xampp_htdocs_market_place_php_phalcon_app_views_home_index.volt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/c__xampp_htdocs_marketplace_app_views_home_index.volt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/c__xampp_htdocs_marketplace_app_views_teste_index.volt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/c__xampp_htdocs_marketplace_app_views_teste_nome.volt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/c__xampp_htdocs_marketplace_market_place_php_phalcon_app_views_home_index.volt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.volt" afterPath="$PROJECT_DIR$/app/views/home/index.volt" />
     </list>
     <ignored path="marketplace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,8 +68,8 @@
       <file leaf-file-name="index.volt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.volt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,6 +78,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="WAGNER PEREIRA LAGUE &lt;wagner.lague@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -167,7 +122,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -283,35 +238,70 @@
       <workItem from="1527039728878" duration="154000" />
       <workItem from="1527039903188" duration="629000" />
       <workItem from="1527040611147" duration="15000" />
-      <workItem from="1527040794477" duration="50000" />
+      <workItem from="1527040794477" duration="1356000" />
     </task>
+    <task id="LOCAL-00001" summary="Estrutura Phalcon. Já com acesso ao banco e a lista de produtos.">
+      <created>1527040978345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527040978345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12213000" />
+    <option name="totallyTimeSpent" value="13519000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14712153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14712153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -323,6 +313,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estrutura Phalcon. Já com acesso ao banco e a lista de produtos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estrutura Phalcon. Já com acesso ao banco e a lista de produtos." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -585,10 +579,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>

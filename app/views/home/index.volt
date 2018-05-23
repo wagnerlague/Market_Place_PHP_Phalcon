@@ -13,8 +13,6 @@
         <a href="{{ url('produto/ver/')}}{{produto.id}}"><button class="btn btn-danger">Visualizar</button></a>
     {% endfor %}
     <h2>Inserir produtos</h2>
-
 </div>
-
 </body>
 </html>
